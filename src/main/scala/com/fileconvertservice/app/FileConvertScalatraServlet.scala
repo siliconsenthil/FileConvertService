@@ -13,5 +13,4 @@ class FileConvertScalatraServlet extends FileconvertserviceStack {
       </body>
     </html>
   }
-  
 }
